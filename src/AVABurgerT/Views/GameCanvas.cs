@@ -10,7 +10,7 @@ using AVABurgerT.Models;
 namespace AVABurgerT.Views;
 
 /// <summary>
-/// The arcade screen: a fixed 1024×768 picture scaled to fit the window, the construction site in the
+/// The arcade screen: a fixed 1024×768 picture scaled to fit the window, the kitchen in the
 /// middle and the score panels either side. Runs the engine from a 60 Hz timer.
 /// </summary>
 public sealed partial class GameCanvas : Control
